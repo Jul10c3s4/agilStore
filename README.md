@@ -68,19 +68,4 @@ Quantidade em estoque
 Preço
 Após inserir as informações, o produto será adicionado à lista e salvo no arquivo produtos.json.
 
-Arquivo de Dados
-Os dados dos produtos são armazenados no arquivo produtos.json.
-Se o arquivo não existir, ele será criado automaticamente.
-Estrutura do Projeto
-bash
-Copiar código
-AgilStore/
-│
-├── com/
-│   └── mycompany/
-│       └── agilstore/
-│           ├── Produto.java      # Definição da classe Produto
-│           └── GerenciaProdutos.java  # Lógica do gerenciamento de produtos
-└── produtos.json                # Arquivo de dados onde os produtos são armazenados
-Contribuições
-Sinta-se à vontade para contribuir para este projeto! Se você encontrou um bug ou deseja adicionar um recurso, crie uma issue ou um pull request.
+ contribuir para este projeto! Se você encontrou um bug ou deseja adicionar um recurso, crie uma issue ou um pull request.
